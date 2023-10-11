@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "running"
+      "text": "running",
+      "id": "1"
     },
     {
-      "id": "2",
-      "text": "walking"
+      "text": "walking",
+      "id": "2"
     },
     {
-      "id": "3",
-      "text": "swimming"
+      "text": "swimming",
+      "id": "3"
     },
     {
       "id": "a141575f-fc91-4ac1-b75d-dc095a1ab2c9",
